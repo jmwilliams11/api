@@ -4,8 +4,6 @@ echo "<a target='_blank' href='https://github.com/jmwilliams11/api.git'>GitHub r
 echo "<br>";
 main();
 
-//$arr =
-
 
 function main () {
 	
