@@ -4,7 +4,7 @@ echo "<a target='_blank' href='https://github.com/jmwilliams11/api.git'>GitHub r
 echo "<br>";
 main();
 
-
+//new comment made
 function main () {
 	
 	$apiCall = 'https://api.covid19api.com/summary';
